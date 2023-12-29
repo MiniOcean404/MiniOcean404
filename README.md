@@ -33,9 +33,6 @@
     <tr>
       <td colspan="2" align="left">🏃‍♂️很希望和志同道合的人成为朋友！</td>
     </tr>
-
-
-
     <!-- skills -->
     <!-- <tr>
       <td colspan="2" align="left">
