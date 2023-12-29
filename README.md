@@ -33,6 +33,13 @@
     <tr>
       <td colspan="2" align="left">🏃‍♂️很希望和志同道合的人成为朋友！</td>
     </tr>
+
+
+##### GitHub status:
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=MiniOcean404&theme=github&height=320)
+
+
     <!-- skills -->
     <!-- <tr>
       <td colspan="2" align="left">
