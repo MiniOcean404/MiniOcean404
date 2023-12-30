@@ -156,6 +156,5 @@
     </a>
     <a href="https://github.com/MiniOcean404">
         <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiniOcean404&layout=compact&show_icons=truee&include_all_commits=true&theme=onedark&card_width=230" alt="小海洋's github stats"/>
-        <img align='center'src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiniOcean404"/> 
     </a>
 </div>
