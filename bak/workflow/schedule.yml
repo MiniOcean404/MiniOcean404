@@ -2,7 +2,7 @@ name: Update README
 on: # 触发时机
   push:
     tags: # Pattern matched against refs/tags
-      - '*' # Push events to every tag not containing /
+      - "*" # Push events to every tag not containing /
   # push:
   #   branches:
   #     - main
@@ -42,7 +42,7 @@ jobs:
           git config --global user.email "wangrongding@qq.com"
           git config --global user.name "wangrongding"
           git add .
-          git commit -m "Updated Readme" || exit 
+          git commit -m "Updated Readme" || exit
           git push
 
       - name: Keepalive Workflow

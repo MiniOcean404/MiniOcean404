@@ -1,16 +1,20 @@
 {
-  "name": "wangrongding",
+  "name": "miniocean404",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "dev": "node index.js"
+    "dev": "tsx watch ./index.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "axios": "^1.1.2"
+    "axios": "1.8.4",
+    "tsx": "^4.19.3"
+  },
+  "devDependencies": {
+    "@types/node": "^22.14.1"
   }
 }

@@ -1,0 +1,29 @@
+{
+  "compilerOptions": {
+    "rootDir": ".", // 根目录
+    "outDir": "lib", // 输出目录
+
+    "target": "ESNext", // 指定 ECMAScript 目标版本
+    "module": "ESNext", // 指定模块代码生成
+    "moduleResolution": "bundler", // 模块解析策略
+    "allowJs": true, // 允许编译 JS 文件
+    "resolveJsonModule": true, // 允许导入 JSON 模块
+    "allowSyntheticDefaultImports": true, // 允许从没有设置默认导出的模块中默认导入
+    "experimentalDecorators": true, // 启用实验性的装饰器
+    "allowImportingTsExtensions": true, // 允许导入带有 .ts 扩展名的文件
+    "sourceMap": true, // 生成 sourceMap 文件
+    "removeComments": false, // 保留注释
+    "preserveConstEnums": true, // 保留 const 和 enum 声明
+
+    "declaration": true, // 生成声明文件
+    "emitDeclarationOnly": true, // 只生成声明文件
+
+
+    "strictNullChecks": true, // 启用严格的 null 检查
+    "noImplicitAny": false, // 禁用隐式 any 类型检查
+    "noUnusedLocals": false, // 关闭本地变量未被读取时的错误
+    "noUnusedParameters": false, // 关闭未使用的参数错误
+  },
+  "include": ["./*.js", "./*.ts"],
+  "compileOnSave": false
+}
