@@ -83,9 +83,10 @@
 
 ###
 
+<!-- Vecel start 和 languages API 请求自己仓库项目地址：https://vercel.com/miniocean404s/github-readme-stats -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MiniOcean404&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MiniOcean404&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true" height="150" alt="languages graph"  />
+  <img align="left" src="https://github-readme-stats-miniocean404s.vercel.app/api?username=MiniOcean404&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true" height="150" alt="stats 图"  />
+  <img align="right" src="https://github-readme-stats-miniocean404s.vercel.app/api/top-langs?username=MiniOcean404&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true" height="150" alt="语言图"  />
 </div>
 
 ###
