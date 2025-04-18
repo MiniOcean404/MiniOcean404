@@ -98,8 +98,8 @@
 <!-- 仓库统计 -->
 <!-- Vecel start 和 languages API 请求自己仓库项目地址：https://vercel.com/miniocean404s/github-readme-stats -->
 <div align="center">
-  <img  src="https://github-readme-stats-miniocean404s.vercel.app/api?username=MiniOcean404&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true" height="150" alt="stats 图"  />
-  <img  src="https://github-readme-stats-miniocean404s.vercel.app/api/top-langs?username=wangrongding&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true" height="150" alt="语言图"  />
+  <img  src="https://github-readme-stats-miniocean404s.vercel.app/api?username=MiniOcean404&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true"  alt="stats 图"  />
+  <img  src="https://github-readme-stats-miniocean404s.vercel.app/api/top-langs?username=wangrongding&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true"  alt="语言图"  />
 </div>
 
 ###
@@ -119,7 +119,7 @@
     <a target="_blank" href="https://github.com/miniocean404-tool/vscode-plugin-mini-tool">Mini
         Gitmoji</a>：🌈
     Gitmoji 日志规范提交、提交图标等
-    <img src="https://img.shields.io/github/stars/wangrongding/fanyi" alt="GitHub stars" />
+    <img src="https://img.shields.io/github/stars/miniocean404-tool/vscode-plugin-mini-tool" alt="GitHub stars" />
     <img src="https://badgen.net/vs-marketplace/i/miniocean404.mini-gitmoji"
         alt="VS Code Marketplace installs" /></a>
 </div>
